@@ -18,7 +18,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ashimbhowmik&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ashimbhowmik.ashimbhowmik&"  />
 </div>
 
 ###
