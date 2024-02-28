@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="300" src="https://avatars.githubusercontent.com/u/108410435?v=4"  />
-</div>
+
 
 ###
 
